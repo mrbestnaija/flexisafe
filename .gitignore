@@ -1,8 +1,6 @@
-# Byte-compiled / optimized / DLL files
-__pycache__/
-*.py[cod]
-*$py.class
 
+<<<<<<< HEAD
+.env
 # C extensions
 *.so
 
@@ -169,3 +167,4 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+>>>>>>> origin/rock_paper_scissors
