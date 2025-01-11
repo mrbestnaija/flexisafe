@@ -1,0 +1,11 @@
+.env
+__pycache__/
+*.log
+*.pyc
+*.pyo
+*.pyd
+.DS_Store
+.ipynb
+outputs/logs/
+outputs/reports/
+outputs/visualizations/
