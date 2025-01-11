@@ -1,8 +1,21 @@
+<<<<<<< HEAD
+
+=======
+# week_one_project
+# rock_paper_scissors
+
+## Overview
+This project aims to analyze the Titanic dataset and build a predictive model to determine survival rates.
+
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/yourusername/my_data_project](https://github.com/mrbestnaija/flexisafe/edit/rock_paper_scissors.git
+   cd rock_paper_scissors
 This a Python program that simulates a game of Rock, Paper, Scissors between the user and the computer.
 
 The code for the Game is developed in Jupyther Notebook and Python script that can be run on the terminal using this line of code : "python ./rock_paper_scissors/main.py "
 
-Explanation
 Define the Possible Choices:
 
 choices = ["Rock", "Paper", "Scissors"]: Defines a list of possible choices.
@@ -31,3 +44,5 @@ Virtual Environments: Use virtual environments to manage dependencies:
 python -m venv venv
 source venv/bin/activate  # On Windows use `venv\Scripts\activate`
 pip install -r requirements.txt
+
+>>>>>>> origin/rock_paper_scissors
