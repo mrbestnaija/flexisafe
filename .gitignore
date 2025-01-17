@@ -1,6 +1,7 @@
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
+<<<<<<< HEAD
 *$py.class
 
 # C extensions
@@ -169,3 +170,19 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+=======
+
+# Environment variables
+.env
+
+# Virtual environment
+venv/
+env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data files
+*.csv
+ 
+>>>>>>> f90ed34 (Initial commit for the Tic_tac_toe game)
