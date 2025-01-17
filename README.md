@@ -1,8 +1,14 @@
 <<<<<<< HEAD
 
 =======
-# week_one_project
-# rock_paper_scissors
+# Installation
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+pip install -r requirements.txt
+
+
+# first_project
+### rock_paper_scissors
 
 ## Overview
 This project aims to analyze the Titanic dataset and build a predictive model to determine survival rates.
@@ -39,10 +45,27 @@ git init
 git add .
 git commit -m "Initial commit"
 
-Virtual Environments: Use virtual environments to manage dependencies:
+You could Use virtual environments to manage dependencies:
 
-python -m venv venv
-source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-pip install -r requirements.txt
+
+# Second_project
+### Tic_tac_toe Game
+
+
+# Data Visualization with Seaborn and Pandas
+
+This project is part of a beginner phase internship program. It demonstrates data visualization using Seaborn and Pandas, and builds a simple AI agent for Tic-Tac-Toe. 
+
+## Features
+1. **Task 1**: A Python-based AI agent for playing Tic-Tac-Toe.
+2. **Task 2**: Data visualization of company sales data using Seaborn and Pandas.
+    - Line plot of total profit by month.
+    - Subplots for bathing soap and facewash sales.
+
+## Prerequisites
+- Python 3.8 or later
+- Libraries listed in `requirements.txt`
+
+
 
 >>>>>>> origin/rock_paper_scissors
