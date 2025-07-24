@@ -163,11 +163,12 @@ cython_debug/
 # Visual Studio Code
 .vscode/
 
-# Data files
+# Data files (exclude from repository)
+data/
+results/
 *.csv
 *.xlsx
 *.xls
-*.json
 *.parquet
 *.h5
 *.hdf5
@@ -175,6 +176,10 @@ cython_debug/
 *.pkl
 *.feather
 *.arrow
+
+# Keep directory structure but ignore contents
+data/.gitkeep
+results/.gitkeep
 
 # Large model files
 *.model
